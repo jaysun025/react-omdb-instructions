@@ -1,5 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Starting a Film Project
 
+A homework from class that uses react to make a video selection list.
+
 Clone this [starter repo](https://github.com/WDI-SEA/react-film-starter-repo), `npm install`, and run with `npm start`.
 
 ## Your Mission
